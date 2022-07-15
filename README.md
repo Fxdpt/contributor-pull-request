@@ -15,8 +15,8 @@ create a `.env` file and fill it with the following information
 
 ## Todo
 
-- [] - Handle github api pagination for organisation members
-- [] - Handle github api pagination for repository pull requests
-- [] - Handle multiple repository scanning
-- [] - Refactor Data fetching in dedicated services
+- [ ] - Handle github api pagination for organisation members
+- [ ] - Handle github api pagination for repository pull requests
+- [ ] - Handle multiple repository scanning
+- [ ] - Refactor Data fetching in dedicated services
 
