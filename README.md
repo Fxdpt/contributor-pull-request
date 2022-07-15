@@ -1,6 +1,6 @@
 # Contributor Pull Request Listing
 
-This application will list the PRs coming from people outside of you github organization
+This application will list the PRs coming from people outside of your github organization
 
 ## Prerequisites
 
