@@ -14,7 +14,6 @@ export const PullRequestList: React.FC = (): JSX.Element => {
   const githubOrganization = env.GITHUB_ORGANIZATION;
   const githubRepo = env.GITHUB_REPO;
   const githubToken = env.GITHUB_TOKEN;
-  console.log(githubOrganization, githubRepo, githubToken);
   const [data, setData] = useState<Array<IPullRequest>>([]);
   const myHeaders: RequestInit = {
     method: "GET",
